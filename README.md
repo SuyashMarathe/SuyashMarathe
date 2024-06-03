@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:suyash.marathe@nmiet.edu.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash-marathe-5956b0236" height="30" width="40" /></a>
+<a href="mailto:suyash.marathe@nmiet.edu.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash.marathe@nmiet.edu.in" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suyashmarathe2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suyashmarathe2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suyashmarathe_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suyashmarathe_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suyash_marathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suyash_marathe" height="30" width="40" /></a>
